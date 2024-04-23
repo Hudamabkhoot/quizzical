@@ -5,7 +5,7 @@
 
 ***This is the final Solo Project of [Bob Ziroll's React Course on Scrimba](https://scrimba.com/learn/learnreact) developed from scratch by me.***
 
-[Live Site]([https://reactjs.org/](https://quizzical-scrimba-app.netlify.app/)) 
+[Live Site](https://quizzical-scrimba-app.netlify.app/)
 
 ## ⚒️ Built with:
 - HTML 
