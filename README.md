@@ -13,6 +13,6 @@
 
 ## 📷 Screenshots:
 
-![quizzical-app_](https://ibb.co/hRxWnwh)
-![quizzical-app_ (1)](https://ibb.co/xMbwswC)
-![quizzical-app_ (2)](https://ibb.co/cCpn9Qx)
+![quizzical-1](https://github.com/Hudamabkhoot/quizzical/assets/100641349/f421227d-c4f5-4935-911d-70180570d39c)
+![quizzical-2](https://github.com/Hudamabkhoot/quizzical/assets/100641349/3173a1a3-e26e-4673-bc25-1c02da6aab50)
+![quizzical-3](https://github.com/Hudamabkhoot/quizzical/assets/100641349/c42b7c70-d985-4bd2-8c6b-7b6696287db6)
