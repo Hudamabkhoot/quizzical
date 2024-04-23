@@ -1,0 +1,38 @@
+.secondaryButton {
+  padding: 0.5em 1.5em;
+  margin: 0.8em 0.5em;
+  border-radius: 9px;
+  border: 1px solid #4d5b9e;
+  color: #293264;
+  background-color: #f5f7fb;
+  cursor: pointer;
+}
+
+.secondaryButtonAfterSubmit, .incorrectAnswer {
+  color: #abb3d3;
+  border: 1px solid #d6dbf5;
+}
+
+.correctAnswer {
+  background-color: #94d7a2;
+  color: #293264;
+  border: none;
+}
+
+.incorrectAnswer {
+  background-color: #f8bcbc;
+  border: none;
+}
+
+.selectedChoice {
+  background-color: #d6dbf5;
+  border: 2px solid #4d5b9e;
+}
+
+.secondaryButton:active,
+.secondaryButtonAfterSubmit:active,
+.incorrectAnswer:active,
+.correctAnswer:active,
+.selectedChoice:active {
+  transform: translateY(1px); /* Move the button down slightly when clicked */
+}

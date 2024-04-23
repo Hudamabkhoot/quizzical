@@ -1,0 +1,99 @@
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  font-size: 1rem;
+  padding: 0.6em 1em;
+  background-color: #F5F7FB;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  max-width: 250px;
+  width: 100%;
+  color: #293264;
+  cursor: pointer;
+  margin-left: 1em;
+}
+
+.selectInput {
+  font-family: "Inter", sans-serif;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #F5F7FB;
+  color: #293264;
+  width: 100%;
+  cursor: pointer;
+}
+
+.selectInput:focus {
+  outline: none;
+  border-color: #4D5B9E;
+  box-shadow: 0 0 5px rgba(77, 91, 158, 0.5);
+}
+
+.HomePageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  color: #293264;
+  height: 100vh;
+  padding: 0 1rem;
+  gap: 1.5em;
+}
+
+
+.NoQuestionsError {
+  color: red;
+}
+
+.QuizSettings {
+  margin: 1em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.HomePagePrimaryButton {
+  background-color: #4D5B9E;
+  color: #F5F7FB;
+  border: none;
+  padding: 1rem 2.8rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.HomePagePrimaryButton:active {
+  transform: translateY(2px);
+}
+
+.blob {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  z-index: -1;
+}
+
+
+@media screen and (min-width: 1024px) {
+
+  .dinoImage {
+    width: 50%;
+  }
+
+  .mapImage {
+    max-width: 700px;
+  }
+
+  .upperDinoPage {
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+
+  .description {
+    margin: 3rem 0;
+  }
+}
